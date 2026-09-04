@@ -27,3 +27,24 @@ David Barbosa Fernandes
 • Objetivo acadêmico
 
 Este projeto faz parte da atividade avaliativa da disciplina Design Profissional, com o objetivo de praticar o uso colaborativo do Git e GitHub, incluindo a criação de commits, compartilhamento do repositório e acompanhamento do histórico de contribuições dos integrantes.=
+
+
+
+
+
+• Como funciona
+
+O funcionamento da lista é simples. O usuário adiciona os produtos que deseja comprar e eles passam a aparecer na lista.
+
+Conforme os produtos são encontrados e comprados, o usuário pode identificá-los como comprados, permitindo diferenciar os itens que ainda precisam ser adquiridos daqueles que já foram colocados no carrinho.
+
+Caso algum produto não seja mais necessário, ele também pode ser removido da lista.
+
+Principais recursos
+
+• Adicionar novos produtos à lista;
+• Visualizar todos os produtos adicionados;
+• Marcar produtos que já foram comprados;
+• Identificar facilmente os produtos que ainda faltam;
+• Remover produtos que não são mais necessários;
+• Organizar os itens de forma simples e prática.
