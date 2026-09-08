@@ -1,4 +1,5 @@
  feature/Marcelo
+ feature/Marcelo
 ## Sobre a Lojinha Sistematica
 
 A Lojinha Sistematica é um espaço destinado aos alunos dos cursos de Tecnologia da Informação da UNIFRAN, oferecendo produtos relacionados à identidade da Sistematica.
@@ -27,6 +28,9 @@ Ao utilizar a lista, o usuário pode:
 
 Dessa forma, o projeto facilita o planejamento das compras e ajuda o usuário a acompanhar os produtos que ainda precisa adquirir.
 
+ feature/Rafael
+ main
+
  feature/Lucas
 Destaques da Lojinha
 
@@ -41,6 +45,7 @@ Entre os produtos disponíveis, existem opções para diferentes estilos e ocasi
 A variedade de produtos também facilita a organização da lista de compras, já que os alunos podem selecionar e acompanhar os itens que desejam adquirir.
 
 
+ main
 ## Sobre a Lojinha Sistematica
 
 A Lojinha Sistematica é um espaço destinado aos alunos dos cursos de Tecnologia da Informação da UNIFRAN, oferecendo produtos relacionados à identidade da Sistematica.
@@ -48,6 +53,9 @@ A Lojinha Sistematica é um espaço destinado aos alunos dos cursos de Tecnologi
 A lojinha conta com diferentes opções de vestuário e acessórios, permitindo que os alunos possam adquirir produtos que representam a comunidade dos cursos de TI.
 
 Entre os produtos disponíveis estão moletons, camisetas, tops, croppeds, coletes, bermudas, shorts, calças e acessórios personalizados da Sistematica.
+
+ feature/Rafael
+A Lista de Compras foi adaptada para facilitar a organização dos produtos que os alunos desejam adquirir na lojinha.
 
 A Lista de Compras foi adaptada para facilitar a organização dos produtos que os alunos desejam adquirir na lojinha!
  main
