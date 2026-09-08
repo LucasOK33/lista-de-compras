@@ -25,3 +25,24 @@ Uma lista de compras pode ser organizada da seguinte maneira:
 
 ------------------------------------------------------------------------------------------------------
 
+## 📝 Lista de produtos
+
+A lista de compras do projeto foi desenvolvida com base nos produtos disponíveis na **Lojinha Sistematica**, da Atlética de Sistematica dos cursos de Tecnologia da Informação da UNIFRAN.
+
+Os produtos disponíveis são:
+
+### Vestuário
+
+- Moletom da Sistematica
+- Top da Sistematica
+- Cropped da Sistematica
+- Camiseta Dry Fit da Sistematica
+- Camiseta Oversized da Sistematica
+- Colete da Sistematica
+- Bermuda da Sistematica
+- Short Doll da Sistematica
+- Calça Cargo da Sistematica
+
+### Acessórios
+
+- Caneca + Tirante da Sistematica
