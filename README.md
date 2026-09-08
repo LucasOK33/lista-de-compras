@@ -30,6 +30,8 @@ Este projeto faz parte da atividade avaliativa da disciplina Design Profissional
 
 
 
+\------------------------------------------------------------------------------------------------------
+
 
 
 • Como funciona
@@ -48,3 +50,26 @@ Principais recursos
 • Identificar facilmente os produtos que ainda faltam;
 • Remover produtos que não são mais necessários;
 • Organizar os itens de forma simples e prática.
+
+
+\------------------------------------------------------------------------------------------------------
+
+
+Benefícios da lista de compras
+
+A utilização de uma lista de compras pode trazer diversos benefícios para o dia a dia:
+
+
+
+Evita o esquecimento de produtos importantes;
+
+Facilita o planejamento das compras;
+
+Ajuda a manter os produtos organizados;
+
+Permite acompanhar os itens que já foram comprados;
+
+Torna o momento das compras mais rápido e prático;
+
+Ajuda a manter o foco nos produtos que realmente precisam ser comprados.
+
