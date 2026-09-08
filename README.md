@@ -1,4 +1,8 @@
+ feature/Rafael
 • Conflitando os branchs2
+
+Lista de Compras Compartilhada da Equipe
+ main
 • Sobre o projeto
 
 Este projeto consiste em uma Lista de Compras, desenvolvida com o objetivo de facilitar a organização dos produtos que precisam ser comprados.
@@ -29,7 +33,9 @@ David Barbosa Fernandes
 Este projeto faz parte da atividade avaliativa da disciplina Design Profissional, com o objetivo de praticar o uso colaborativo do Git e GitHub, incluindo a criação de commits, compartilhamento do repositório e acompanhamento do histórico de contribuições dos integrantes.=
 
 
+
 \------------------------------------------------------------------------------------------------------
+
 
 
 • Como funciona
@@ -50,7 +56,9 @@ Principais recursos
 • Organizar os itens de forma simples e prática.
 
 
+
 \------------------------------------------------------------------------------------------------------
+
 
 
 Benefícios da lista de compras
@@ -72,20 +80,25 @@ Torna o momento das compras mais rápido e prático;
 Ajuda a manter o foco nos produtos que realmente precisam ser comprados.
 
 
+
 \------------------------------------------------------------------------------------------------------
+
 
 
 ## Tipos de compras
 
 A Lista de Compras pode ser utilizada para diferentes necessidades do dia a dia, como:
 
-- **Compras para casa:** produtos de limpeza, alimentos e itens domésticos;
-- **Compras de supermercado:** alimentos, bebidas e produtos de higiene;
-- **Compras para eventos:** produtos necessários para festas, reuniões e comemorações;
-- **Compras pessoais:** roupas, acessórios, produtos de higiene e outros itens;
-- **Compras planejadas:** produtos que precisam ser adquiridos em uma data futura.
+* **Compras para casa:** produtos de limpeza, alimentos e itens domésticos;
+* **Compras de supermercado:** alimentos, bebidas e produtos de higiene;
+* **Compras para eventos:** produtos necessários para festas, reuniões e comemorações;
+* **Compras pessoais:** roupas, acessórios, produtos de higiene e outros itens;
+* **Compras planejadas:** produtos que precisam ser adquiridos em uma data futura.
 
 Dessa forma, o projeto pode ser utilizado para organizar diferentes tipos de compras de acordo com as necessidades de cada usuário.
 
 
+
 \------------------------------------------------------------------------------------------------------
+ feature/Lucas
+ main
