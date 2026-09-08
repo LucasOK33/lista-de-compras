@@ -1,4 +1,4 @@
-• Lista de Compras
+• Conflitando os branchs2
 • Sobre o projeto
 
 Este projeto consiste em uma Lista de Compras, desenvolvida com o objetivo de facilitar a organização dos produtos que precisam ser comprados.
